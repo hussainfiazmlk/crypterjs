@@ -33,6 +33,10 @@
   "author": "Fiaz Hussain <hussainfiazmlk@gmail.com>",
   "description": "A simple and secure library for encrypting and decrypting data using AES-256-GCM with PBKDF2 key derivation. Ideal for securing JWT tokens and sensitive information.",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hussainfiazmlk/crypterjs.git"
+  },
   "bugs": {
     "url": "https://github.com/hussainfiazmlk/crypterjs/issues"
   },
